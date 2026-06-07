@@ -1,0 +1,8 @@
+{
+    "type": "broadcast",
+    "id": "123",
+    "name": "niko",
+    "content": "hello world",
+    "host": "localhost",
+    "ts": 1694502400000
+}

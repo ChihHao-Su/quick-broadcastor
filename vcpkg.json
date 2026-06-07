@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "asio",
+    "libiconv",
+    "ms-gsl",
+    "reflectcpp",
+    "stduuid"
+  ]
+}
